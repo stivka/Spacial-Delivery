@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="901f37e2-ceec-4c13-9555-9f0fc6f6dfaf" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.18.5" />
+      </map>
+    </option>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-751315783">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Rocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1414">
+              <caret line="110" column="32" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#897#898#0" expanded="true" />
+                <element signature="e#2393#2394#0" expanded="true" />
+                <element signature="e#2418#2419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/XtremeHeatRocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Parcel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding>
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/PostOffice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#3103#3104#0" expanded="true" />
+                <element signature="e#3141#3142#0" expanded="true" />
+                <element signature="e#3169#3170#0" expanded="true" />
+                <element signature="e#3199#3200#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Packager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Station.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/SolarSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="31" />
+              <folding>
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>parcel</find>
+      <find>packag</find>
+      <find>package</find>
+      <find>pack</find>
+      <find>158</find>
+      <find>932</find>
+      <find>1</find>
+      <find>800</find>
+      <find>722</find>
+      <find>1400</find>
+      <find>439</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/HeatProofRocket.java" />
+        <option value="$PROJECT_DIR$/src/infoSystem.java" />
+        <option value="$PROJECT_DIR$/src/Package.java" />
+        <option value="$PROJECT_DIR$/src/Parcel.java" />
+        <option value="$PROJECT_DIR$/src/XtremeHeatRocket.java" />
+        <option value="$PROJECT_DIR$/src/InfoSystem.java" />
+        <option value="$PROJECT_DIR$/src/Controller.java" />
+        <option value="$PROJECT_DIR$/src/Packager.java" />
+        <option value="$PROJECT_DIR$/src/Rocket.java" />
+        <option value="$PROJECT_DIR$/src/PostStation.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/Planet.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/InfoSystem.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/PostStations.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/PostStation.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/SolarSystem.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/Controller.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/Station.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/Packager.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/XtremeHeatRocket.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/Parcel.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/Rocket.java" />
+        <option value="$PROJECT_DIR$/src/SpacialDelivery/PostOffice.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="width" value="981" />
+    <option name="height" value="1031" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spacial Delivery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spacial Delivery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spacial Delivery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spacial Delivery" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spacial Delivery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spacial Delivery" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SpacialDelivery" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpacialDelivery.Controller" />
+      <module name="idk0051" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Controller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="901f37e2-ceec-4c13-9555-9f0fc6f6dfaf" name="Default" comment="" />
+      <created>1514298224479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514298224479</updated>
+      <workItem from="1514298228824" duration="342000" />
+      <workItem from="1514298573474" duration="14567000" />
+      <workItem from="1514448633879" duration="19000" />
+      <workItem from="1514448728360" duration="3937000" />
+      <workItem from="1514453526769" duration="1627000" />
+      <workItem from="1514457085791" duration="9062000" />
+      <workItem from="1514633428121" duration="21765000" />
+      <workItem from="1514906487922" duration="10662000" />
+      <workItem from="1514986381646" duration="16443000" />
+      <workItem from="1515006405096" duration="5799000" />
+      <workItem from="1515064433264" duration="20870000" />
+      <workItem from="1515130679378" duration="9061000" />
+      <workItem from="1534324690901" duration="1207000" />
+    </task>
+    <task id="LOCAL-00001" summary="All set?">
+      <created>1514299668441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514299668442</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Package class">
+      <created>1514299948842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514299948842</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Some functionality">
+      <created>1514319912442</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514319912442</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Going for rockets informed separately method.">
+      <created>1514723519518</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1514723519518</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Almost there">
+      <created>1514730537511</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1514730537511</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Somewhere there">
+      <created>1514986310154</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1514986310154</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Midagi toimub :)">
+      <created>1514989426248</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1514989426249</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Kuskil 12nenda parcel'i juures lõpetab ära, kui mitte varem. Station'eid on 11..">
+      <created>1514994657265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1514994657265</updated>
+    </task>
+    <task id="LOCAL-00009" summary="UUS LÄHEMINE. Kolin postStation'i thread'ides olevad parcels'i listid &#10;ühisesse infosystem klassi. Kahtlustan, et seetõttu tekkis wait ja&#10;notify'de vahel konflikte.">
+      <created>1514997600840</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1514997600840</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Kolisin parceli listid infosystem'isse">
+      <created>1515000897171</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1515000897171</updated>
+    </task>
+    <task id="LOCAL-00011" summary="TEEN RAKETID THREAD'IDEKS, selle asemel et Post Station'id oleksid thread'id, sest ma eeldan et lause &quot;kõike raketid peavad töötama samaaegselt&quot; viitab sellele.">
+      <created>1515003247374</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1515003247374</updated>
+    </task>
+    <task id="LOCAL-00012" summary="...">
+      <created>1515003678612</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1515003678612</updated>
+    </task>
+    <task id="LOCAL-00013" summary="more more">
+      <created>1515003873022</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1515003873022</updated>
+    </task>
+    <task id="LOCAL-00014" summary="come on come on">
+      <created>1515005154860</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1515005154860</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Refurbished PostStation class">
+      <created>1515008514468</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1515008514468</updated>
+    </task>
+    <task id="LOCAL-00016" summary="rockets away">
+      <created>1515011287353</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1515011287353</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Still had instances of PostOffice, needed only one.">
+      <created>1515084676984</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1515084676984</updated>
+    </task>
+    <task id="LOCAL-00018" summary="more">
+      <created>1515087887246</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1515087887246</updated>
+    </task>
+    <task id="LOCAL-00019" summary="almost, almost. A lot of parcels stacking up in the stations, and no rockets to take them away :D">
+      <created>1515092723412</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1515092723412</updated>
+    </task>
+    <task id="LOCAL-00020" summary="just can't get it right :/">
+      <created>1515096964029</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1515096964029</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Almost there, must only make it stop ! :)">
+      <created>1515137552344</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1515137552344</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="115361000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11578947" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31308413" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5432243" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32864675" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32943925" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All set?" />
+    <MESSAGE value="Added Package class" />
+    <MESSAGE value="Some functionality" />
+    <MESSAGE value="Going for rockets informed separately method." />
+    <MESSAGE value="Almost there" />
+    <MESSAGE value="Somewhere there" />
+    <MESSAGE value="Midagi toimub :)" />
+    <MESSAGE value="Kuskil 12nenda parcel'i juures lõpetab ära, kui mitte varem. Station'eid on 11.." />
+    <MESSAGE value="UUS LÄHEMINE. Kolin postStation'i thread'ides olevad parcels'i listid &#10;ühisesse infosystem klassi. Kahtlustan, et seetõttu tekkis wait ja&#10;notify'de vahel konflikte." />
+    <MESSAGE value="Kolisin parceli listid infosystem'isse" />
+    <MESSAGE value="TEEN RAKETID THREAD'IDEKS, selle asemel et Post Station'id oleksid thread'id, sest ma eeldan et lause &quot;kõike raketid peavad töötama samaaegselt&quot; viitab sellele." />
+    <MESSAGE value="..." />
+    <MESSAGE value="more more" />
+    <MESSAGE value="come on come on" />
+    <MESSAGE value="Refurbished PostStation class" />
+    <MESSAGE value="rockets away" />
+    <MESSAGE value="Still had instances of PostOffice, needed only one." />
+    <MESSAGE value="more" />
+    <MESSAGE value="almost, almost. A lot of parcels stacking up in the stations, and no rockets to take them away :D" />
+    <MESSAGE value="just can't get it right :/" />
+    <MESSAGE value="Almost there, must only make it stop ! :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost there, must only make it stop ! :)" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../MultiThreadingExample/Rocket.java" />
+    <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Planet.java" />
+    <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Rocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1414">
+          <caret line="110" column="32" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#2393#2394#0" expanded="true" />
+            <element signature="e#2418#2419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/XtremeHeatRocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Parcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Packager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Station.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/SolarSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/PostOffice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#3103#3104#0" expanded="true" />
+            <element signature="e#3141#3142#0" expanded="true" />
+            <element signature="e#3169#3170#0" expanded="true" />
+            <element signature="e#3199#3200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpacialDelivery/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>idk0051</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
